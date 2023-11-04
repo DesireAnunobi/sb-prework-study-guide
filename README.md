@@ -1,2 +1,2 @@
 # prework-study-guide
-create a GitHub repo
+Create a GitHub repo
